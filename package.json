@@ -1,0 +1,17 @@
+{
+  "name": "reactApp",
+  "version": "0.0.0",
+  "description": "this is my first application in ReactJs",
+  "main": "index.js",
+  "scripts": {
+"start": "webpack-dev-server --hot"
+  },
+  "author": "Allani Mahdi",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "webpack": "~1.13.3",
+    "webpack-dev-server": "~1.16.2",
+    "react": "~15.4.1",
+    "react-dom": "~15.4.1"
+  }
+}
